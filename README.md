@@ -1,4 +1,4 @@
-h1 align="center">
+<h1 align="center">
     <br>Bakery<br/>
     HTML | CSS | JAVASCRIPT | PHP
 </h1>
