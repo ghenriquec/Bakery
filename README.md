@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Made by Guilherme Henrique and Luiz Eduardo" src="https://github.com/ghenriquec/Bakery/blob/main/BakeryMockup.png"><br/>
+  <img alt="Made by Guilherme Henrique and Luiz Eduardo" src="https://github.com/ghenriquec/Bakery/blob/main/images/BakeryMockup.png"><br/>
 </p>
 
 <p align="center">
