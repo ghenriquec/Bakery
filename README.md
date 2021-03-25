@@ -4,6 +4,10 @@
 </h1>
 
 <p align="center">
+  <img alt="Made by Guilherme Henrique and Luiz Eduardo" src="https://github.com/ghenriquec/Bakery/blob/main/BakeryMockup.png"><br/>
+</p>
+
+<p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp</a>
   <a href="#memo-licença">Licença</a>
