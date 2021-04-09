@@ -19,7 +19,7 @@ O **Bakery** é uma iniciativa para o curso de Tecnicas de Programção.
   
 Este projeto foi idealizado pensando em um site de exemplo para padarias.
   
-Essa aplicação foi realizada durante a o curso de **Tecnicas de programação avançadas**, projeto de [Guilherme Henrique](https://www.linkedin.com/in/ghenriquec/) e [Luiz Eduardo](https://github.com/luizranngel).
+Essa aplicação foi realizada durante o curso de **Tecnicas de programação avançadas**, projeto de [Guilherme Henrique](https://www.linkedin.com/in/ghenriquec/) e [Luiz Eduardo](https://github.com/luizranngel).
 
 ## :rocket: Tecnologias
 
